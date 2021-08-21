@@ -19,7 +19,8 @@ func main() {
 
 	//obj := ex.SocketsImplementation{}
 
-	obj := ex.PasswordHashing{}
+	//obj := ex.PasswordHashing{}
+	obj := ex.UrlShortner{}
 
 	obj.Run()
 }

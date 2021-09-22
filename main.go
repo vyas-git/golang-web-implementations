@@ -20,7 +20,9 @@ func main() {
 	//obj := ex.SocketsImplementation{}
 
 	//obj := ex.PasswordHashing{}
-	obj := ex.UrlShortner{}
+	//obj := ex.UrlShortner{}
+	//obj := ex.Concurrent{}
+	obj := ex.TypeMapping{}
 
 	obj.Run()
 }
